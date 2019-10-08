@@ -1,0 +1,66 @@
+@media screen and (max-width: 1000px) {
+    header li {
+        font-size: 14px;
+    }
+
+    #main-info {
+        padding: 7%;
+        width: 100%;    
+        margin:0;
+        height: 60vh;
+    }
+
+    #main-info button{
+        font-size: 14px;
+    }
+
+    #main-info h1{
+        font-size: 18px;
+    }
+
+    #prewiev {
+        height: 60vh;
+    }
+    #prewiev img{
+        height: 60vh;
+      }
+      h2 {
+        font-size: 24px;
+        padding: 0px;
+    }
+    h3 {    
+        font-size: 22px;
+    }
+    p {
+        margin: 0 0 9px 0;   
+        font-size: 18px;
+    }
+    .why {
+        padding: 5%;
+  }
+
+ 
+
+  .first-item{
+    text-align: left;
+  }
+
+  footer{
+      padding: 10px 30px;
+  }
+
+  footer li strong{
+      font-size: 20px;
+      text-decoration: underline;
+  }
+  
+  .second-item{
+    text-align: right;
+  }
+
+   .content{
+    padding: 0 5%;
+   }
+  
+}
+  
